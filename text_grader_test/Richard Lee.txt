@@ -1,0 +1,12 @@
+Richard Lee
+
+1. A
+2. C
+3. B
+4. 11
+5. 4
+6. 29
+7. 17
+8. True
+9. True
+10. False

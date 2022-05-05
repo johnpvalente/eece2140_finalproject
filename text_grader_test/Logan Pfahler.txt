@@ -1,0 +1,12 @@
+Logan Pfahler
+
+1. A
+2. B
+3. C
+4. 3
+5. 4
+6. 21
+7. 17
+8. False
+9. False
+10. True

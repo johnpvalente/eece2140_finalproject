@@ -1,0 +1,12 @@
+Alex Chiou
+
+1. A
+2. C
+3. D
+4. 11
+5. 4
+6. 23
+7. 17
+8. False
+9. True
+10. True

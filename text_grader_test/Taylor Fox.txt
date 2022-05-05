@@ -1,0 +1,12 @@
+Taylor Fox
+
+1. A
+2. C
+3. D
+4. 11
+5. 4
+6. 23
+7. 17
+8. True
+9. False
+10. False
